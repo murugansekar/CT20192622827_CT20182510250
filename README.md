@@ -11,5 +11,5 @@ npm install
 Run the server:
 npm start
 
-Point a web browser at the demo:
+Point a web browser:
 http://localhost:3000
